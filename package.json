@@ -1,0 +1,17 @@
+{
+  "name": "passport-requireuser",
+  "version": "1.0.0",
+  "description": "Simple strategy that checks for req.user.",
+  "readmeFilename": "README.md",
+  "author": {
+    "name": "Wesley Hearn",
+    "email": "wesley@shearn.me",
+    "url": "http://wesley@shearn.me/"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ]
+}
