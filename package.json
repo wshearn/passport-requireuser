@@ -14,5 +14,8 @@
       "type": "MIT",
       "url": "http://www.opensource.org/licenses/MIT"
     }
-  ]
+  ],
+  "dependencies": {
+    "passport-strategy": "^1.0.0"
+  }
 }
